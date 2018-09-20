@@ -1,0 +1,6 @@
+<launch>
+  <!-- Launch Nodes -->
+  <node respawn="true" pkg="devastator_override" type="devastator_override" name="override_control" output="screen"/>
+  <node respawn="true" pkg="devastator_control" type="devastator_control_node" name="devastator_control" output="screen" />
+
+</launch>
