@@ -1,2 +1,2 @@
-# devastator_override
+# Devastator Override Package
 Devastator Control Override script
